@@ -4,3 +4,5 @@ tests/php/coverage
 config_*.xml
 .php_cs.cache
 .idea
+.vscode
+.directory
